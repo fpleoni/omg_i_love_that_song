@@ -1,0 +1,201 @@
+,track_name,artist_name,popularity,danceability,SUM(popularity)
+0,Closer,Ne-Yo,7.0,Dance like nobody's watching,19828.0
+1,Roses,The Chainsmokers,32.0,Dance like nobody's watching,6388.0
+2,Home,Johnnyswim,47.0,Dance around a bit,8854.0
+3,Congratulations,Post Malone,85.0,Dance around a bit,12666.0
+4,Ride,Ciara,57.0,Dance around a bit,12558.0
+5,Trap Queen,Fetty Wap,73.0,Dance like nobody's watching,9547.0
+6,Forever,Chris Brown,38.0,Dance around a bit,3183.0
+7,HUMBLE.,Kendrick Lamar,84.0,Dance like nobody's watching,14952.0
+8,Don't Let Me Down,The Chainsmokers,41.0,Dance around a bit,5449.0
+9,Let Me Love You,DJ Snake,25.0,No Dancing Here,7305.0
+10,One Dance,Drake,23.0,Dance like nobody's watching,4059.0
+11,Panda,Desiigner,0.0,Dance like nobody's watching,1411.0
+12,Ni**as In Paris,JAY Z,72.0,Dance like nobody's watching,8352.0
+13,Mr. Brightside,The Killers,78.0,No Dancing Here,8470.0
+14,Bad and Boujee (feat. Lil Uzi Vert),Migos,77.0,Dance like nobody's watching,11319.0
+15,Riptide,Vance Joy,76.0,No Dancing Here,9917.0
+16,Sorry,Justin Bieber,23.0,Dance around a bit,3728.0
+17,No Problem (feat. Lil Wayne & 2 Chainz),Chance The Rapper,74.0,Dance around a bit,8954.0
+18,Stay,Lisa Loeb & Nine Stories,6.0,Dance around a bit,7093.0
+19,September,"Earth, Wind & Fire",59.0,Dance around a bit,6067.0
+20,T-Shirt,Migos,73.0,Dance like nobody's watching,9036.0
+21,Lean On (feat. MØ & DJ Snake),Major Lazer,15.0,Dance like nobody's watching,1755.0
+22,Slide,The Goo Goo Dolls,69.0,No Dancing Here,8000.0
+23,Unforgettable,French Montana,83.0,Dance like nobody's watching,9379.0
+24,Hurricane,Bridgit Mendler,63.0,Dance like nobody's watching,6944.0
+25,Despacito - Remix,Luis Fonsi,28.0,Dance around a bit,3080.0
+26,goosebumps,Travis Scott,84.0,Dance like nobody's watching,10164.0
+27,XO TOUR Llif3,Lil Uzi Vert,85.0,Dance like nobody's watching,9945.0
+28,iSpy (feat. Lil Yachty),KYLE,77.0,Dance like nobody's watching,10024.0
+29,This Is What You Came For,Calvin Harris,79.0,Dance around a bit,7268.0
+30,Alright,Darius Rucker,65.0,Dance around a bit,7312.0
+31,Hey Ya! - Radio Mix / Club Mix,OutKast,77.0,Dance like nobody's watching,6622.0
+32,Alive,Sia,58.0,Dance around a bit,4771.0
+33,Gold Digger,Kanye West,20.0,Dance around a bit,2351.0
+34,Cold Water (feat. Justin Bieber & MØ),Major Lazer,24.0,Dance around a bit,2424.0
+35,Stronger,Clean Bandit,48.0,Dance like nobody's watching,6714.0
+36,White Iverson,Post Malone,81.0,Dance around a bit,10949.0
+37,Broccoli (feat. Lil Yachty),DRAM,71.0,Dance like nobody's watching,10721.0
+38,Shape of You,Ed Sheeran,86.0,Dance like nobody's watching,10406.0
+39,Play It Again,Luke Bryan,75.0,Dance around a bit,6496.0
+40,Believer,Imagine Dragons,23.0,Dance like nobody's watching,2543.0
+41,Mercy,Shawn Mendes,0.0,No Dancing Here,5532.0
+42,Starboy,The Weeknd,20.0,Dance around a bit,2600.0
+43,Don't Stop Believin',Journey,79.0,No Dancing Here,8021.0
+44,Radioactive,Madilyn Bailey,46.0,Dance around a bit,2178.0
+45,Shut Up and Dance,WALK THE MOON,79.0,Dance around a bit,6952.0
+46,Sweet Child O' Mine,Guns N' Roses,81.0,No Dancing Here,6760.0
+47,I'm the One,DJ Khaled,77.0,Dance around a bit,8701.0
+48,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,78.0,Dance around a bit,7020.0
+49,679 (feat. Remy Boyz),Fetty Wap,74.0,Dance around a bit,7466.0
+50,Wonderwall - Remastered,Oasis,79.0,No Dancing Here,6557.0
+51,Down,311,56.0,No Dancing Here,4495.0
+52,I Don't Fuck With You,Big Sean,8.0,Dance like nobody's watching,800.0
+53,Hotline Bling,Drake,13.0,Dance like nobody's watching,1612.0
+54,Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,81.0,Dance around a bit,6399.0
+55,Yeah!,Usher,3.0,Dance like nobody's watching,276.0
+56,You,Gold Panda,24.0,Dance around a bit,3495.0
+57,Cruise,Florida Georgia Line,70.0,No Dancing Here,5320.0
+58,Bounce Back,Big Sean,77.0,Dance like nobody's watching,9702.0
+59,Waves,Kris Allen,40.0,Dance around a bit,6392.0
+60,Black Beatles,Rae Sremmurd,76.0,Dance like nobody's watching,8469.0
+61,Gold,Kiiara,61.0,Dance around a bit,7749.0
+62,Can't Feel My Face,The Weeknd,20.0,Dance like nobody's watching,1820.0
+63,Paris,The Chainsmokers,71.0,Dance around a bit,6174.0
+64,Hello,Stephen,37.0,No Dancing Here,7241.0
+65,Promiscuous,Nelly Furtado,70.0,Dance like nobody's watching,4900.0
+66,Say My Name,Destiny's Child,77.0,Dance like nobody's watching,5896.0
+67,Jumpman,Drake,75.0,Dance like nobody's watching,9150.0
+68,No Role Modelz,J. Cole,82.0,Dance around a bit,10578.0
+69,I Took A Pill In Ibiza - Seeb Remix,Mike Posner,18.0,Dance around a bit,1692.0
+70,Chicken Fried,Zac Brown Band,76.0,Dance around a bit,7068.0
+71,Monster,Imagine Dragons,11.0,No Dancing Here,4473.0
+72,Sober,Childish Gambino,47.0,Dance around a bit,4396.0
+73,Drive,Incubus,65.0,Dance around a bit,5917.0
+74,"Me, Myself & I",G-Eazy,77.0,Dance like nobody's watching,7151.0
+75,The Hills,The Weeknd,16.0,No Dancing Here,1824.0
+76,Sugar,Maroon 5,67.0,Dance like nobody's watching,5464.0
+77,Middle,DJ Snake,13.0,Dance around a bit,1196.0
+78,Believe,Mumford & Sons,9.0,No Dancing Here,2799.0
+79,Crazy In Love,Beyoncé,58.0,Dance around a bit,4879.0
+80,House Party,Sam Hunt,3.0,Dance like nobody's watching,430.0
+81,Hips Don't Lie,Shakira,81.0,Dance like nobody's watching,6318.0
+82,Again,Fetty Wap,66.0,Dance like nobody's watching,5567.0
+83,Ignition - Remix,R. Kelly,71.0,Dance like nobody's watching,8591.0
+84,Cheap Thrills,Sia,76.0,Dance around a bit,6421.0
+85,Blessings,Lecrae,55.0,Dance like nobody's watching,4365.0
+86,Kids,OneRepublic,6.0,Dance around a bit,774.0
+87,Uptown Funk,Mark Ronson,80.0,Dance like nobody's watching,8135.0
+88,Hold On,Alabama Shakes,58.0,Dance around a bit,3942.0
+89,Secrets,Mary Lambert,48.0,Dance like nobody's watching,2063.0
+90,Electric Love,BØRNS,74.0,Dance around a bit,5772.0
+91,Stressed Out,Twenty One Pilots,83.0,Dance like nobody's watching,8051.0
+92,Timber,Pitbull,75.0,Dance around a bit,4772.0
+93,Jessie's Girl,Rick Springfield,69.0,Dance like nobody's watching,5106.0
+94,Famous,Kanye West,74.0,No Dancing Here,5634.0
+95,This Is How We Roll,Florida Georgia Line,69.0,Dance around a bit,4554.0
+96,Wake Me Up - Radio Edit,Avicii,30.0,Dance around a bit,2305.0
+97,F**kin' Problems,A$AP Rocky,76.0,Dance like nobody's watching,6688.0
+98,Drowning (feat. Kodak Black),A Boogie Wit da Hoodie,79.0,Dance like nobody's watching,5897.0
+99,That's What I Like,Bruno Mars,83.0,Dance like nobody's watching,8964.0
+100,Party In The U.S.A.,Miley Cyrus,75.0,No Dancing Here,6168.0
+101,Deja Vu,J. Cole,72.0,Dance around a bit,6968.0
+102,1-800-273-8255,Logic,82.0,Dance around a bit,8494.0
+103,Alone,Heart,72.0,No Dancing Here,4800.0
+104,Wagon Wheel,Old Crow Medicine Show,66.0,Dance around a bit,7376.0
+105,Say It,Flume,59.0,Dance around a bit,6832.0
+106,Summer,Calvin Harris,77.0,Dance around a bit,4845.0
+107,All The Small Things,blink-182,19.0,No Dancing Here,1254.0
+108,Best I Ever Had,Drake,45.0,No Dancing Here,3247.0
+109,Intro,The xx,72.0,Dance around a bit,4849.0
+110,Centuries,Fall Out Boy,13.0,No Dancing Here,884.0
+111,Livin' On A Prayer,Bon Jovi,64.0,Dance around a bit,4196.0
+112,Work,The 2 Bears,20.0,Dance around a bit,2443.0
+113,Stay (with Alessia Cara),Zedd,21.0,Dance around a bit,1932.0
+114,Come On Eileen,Dexys Midnight Runners,62.0,No Dancing Here,4621.0
+115,Love The Way You Lie,Eminem,19.0,Dance like nobody's watching,1269.0
+116,Pumped Up Kicks,Foster The People,82.0,Dance like nobody's watching,6642.0
+117,Slippery (feat. Gucci Mane),Migos,76.0,Dance like nobody's watching,6536.0
+118,Beautiful,Ben Rector,49.0,Dance around a bit,2091.0
+119,Work from Home,Fifth Harmony,78.0,Dance like nobody's watching,7722.0
+120,'Till I Collapse,Eminem,18.0,Dance around a bit,1224.0
+121,POWER,Kanye West,78.0,Dance around a bit,4914.0
+122,Paradise,ANOHNI,18.0,Dance around a bit,3747.0
+123,Demons,Imagine Dragons,23.0,No Dancing Here,1927.0
+124,Caroline,Aminé,77.0,Dance like nobody's watching,11783.0
+125,Leave The Night On,Sam Hunt,3.0,Dance around a bit,180.0
+126,Too Good,Drake,16.0,Dance like nobody's watching,1408.0
+127,Smells Like Teen Spirit,Nirvana,74.0,Dance around a bit,4674.0
+128,"Hey, Soul Sister",Train,21.0,Dance around a bit,1344.0
+129,She Will Be Loved - Radio Mix,Maroon 5,81.0,Dance around a bit,6885.0
+130,All Night,The Vamps,19.0,Dance around a bit,1896.0
+131,Antidote,Travis Scott,76.0,Dance like nobody's watching,7689.0
+132,Something Just Like This,The Chainsmokers,82.0,Dance around a bit,7298.0
+133,My House,Flo Rida,76.0,Dance around a bit,5923.0
+134,Chandelier,Sia,78.0,No Dancing Here,5494.0
+135,Sweet Home Alabama,Lynyrd Skynyrd,29.0,Dance around a bit,2668.0
+136,Location,Khalid,83.0,Dance like nobody's watching,10208.0
+137,Tongue Tied,Grouplove,79.0,Dance around a bit,4605.0
+138,Cheerleader - Felix Jaehn Remix Radio Edit,OMI,73.0,Dance like nobody's watching,5913.0
+139,pick up the phone,Young Thug,73.0,Dance like nobody's watching,5475.0
+140,24K Magic,Bruno Mars,79.0,Dance like nobody's watching,5417.0
+141,Wake Up,Arcade Fire,66.0,No Dancing Here,3905.0
+142,Hollaback Girl,Gwen Stefani,70.0,Dance like nobody's watching,4200.0
+143,Sweater Weather,The Neighbourhood,78.0,Dance around a bit,5332.0
+144,Never Be Like You,Flume,65.0,No Dancing Here,6370.0
+145,All I Want,Kodaline,46.0,No Dancing Here,4431.0
+146,Replay,Iyaz,75.0,Dance like nobody's watching,5165.0
+147,With You,Chris Brown,44.0,Dance around a bit,4451.0
+148,Don't,Bryson Tiller,77.0,Dance like nobody's watching,8383.0
+149,Round Here,Florida Georgia Line,66.0,Dance around a bit,4060.0
+150,Fake Love,Drake,75.0,Dance like nobody's watching,8261.0
+151,Bodak Yellow,Cardi B,72.0,Dance like nobody's watching,5400.0
+152,Rolex,Ayo & Teo,74.0,Dance like nobody's watching,4514.0
+153,Mask Off,Future,80.0,Dance like nobody's watching,9920.0
+154,My Girl,Dylan Scott,7.0,Dance around a bit,2045.0
+155,Halo,Beyoncé,73.0,No Dancing Here,4985.0
+156,Santeria,Sublime,67.0,Dance around a bit,4789.0
+157,Paradise City,Guns N' Roses,77.0,No Dancing Here,4312.0
+158,I Write Sins Not Tragedies,Panic! At The Disco,75.0,Dance around a bit,5025.0
+159,Bang Bang,Betty Chung,35.0,Dance around a bit,1083.0
+160,Let It Go,James Bay,74.0,Dance around a bit,7386.0
+161,Thunder,Imagine Dragons,27.0,Dance around a bit,1938.0
+162,Take Me To Church,Hozier,16.0,Dance around a bit,1280.0
+163,Where Are Ü Now (with Justin Bieber),Jack Ü,76.0,No Dancing Here,5134.0
+164,Angel,Sarah McLachlan,48.0,No Dancing Here,2251.0
+165,Let Her Go,Passenger,65.0,Dance around a bit,6063.0
+166,Selfish,The Kite String Tangle,37.0,Dance around a bit,6735.0
+167,Semi-Charmed Life,Third Eye Blind,74.0,Dance around a bit,4514.0
+168,2 Phones,Kevin Gates,70.0,Dance like nobody's watching,5435.0
+169,Light It Up (feat. Nyla & Fuse ODG) - Remix,Major Lazer,6.0,Dance like nobody's watching,360.0
+170,"Happy - From ""Despicable Me 2""",Pharrell Williams,78.0,Dance around a bit,4992.0
+171,Higher,Royal Tongues,27.0,Dance around a bit,2986.0
+172,I Feel It Coming,The Weeknd,70.0,Dance like nobody's watching,4480.0
+173,Runaway (U & I),Galantis,74.0,Dance around a bit,4810.0
+174,It Wasn't Me,Shaggy,17.0,Dance like nobody's watching,1462.0
+175,Perfect,One Direction,72.0,Dance around a bit,5381.0
+176,Electric Feel,MGMT,7.0,Dance like nobody's watching,508.0
+177,oui,Jeremih,74.0,Dance like nobody's watching,5476.0
+178,No Diggity,Blackstreet,77.0,Dance like nobody's watching,5226.0
+179,Counting Stars,OneRepublic,17.0,Dance around a bit,1241.0
+180,Ain't No Mountain High Enough,Marvin Gaye,26.0,Dance around a bit,2245.0
+181,Springsteen,Eric Church,73.0,Dance around a bit,4672.0
+182,Pompeii,Bastille,69.0,Dance around a bit,5049.0
+183,What Do You Mean?,Justin Bieber,19.0,Dance like nobody's watching,1729.0
+184,Brown Eyed Girl,Van Morrison,79.0,No Dancing Here,6623.0
+185,Latch,Disclosure,71.0,Dance around a bit,5099.0
+186,Wild Thoughts,DJ Khaled,76.0,Dance around a bit,5776.0
+187,Welcome To The Jungle,Guns N' Roses,77.0,No Dancing Here,3748.0
+188,Ghost,Voxtrot,21.0,No Dancing Here,3642.0
+189,GDFR (feat. Sage The Gemini & Lookas),Flo Rida,69.0,Dance around a bit,4209.0
+190,My Way,Frank Sinatra,16.0,No Dancing Here,3276.0
+191,Sunday Morning,Maroon 5,71.0,Dance around a bit,3908.0
+192,Wannabe - Radio Edit,Spice Girls,80.0,Dance like nobody's watching,4640.0
+193,Thunderstruck,Thunderstruck,31.0,Dance around a bit,4224.0
+194,All Star,Smash Mouth,80.0,Dance like nobody's watching,4610.0
+195,Never Forget You,Zara Larsson,78.0,Dance around a bit,5278.0
+196,How to Save a Life,The Fray,80.0,Dance around a bit,5446.0
+197,Good Life,Kanye West,57.0,No Dancing Here,2700.0
+198,The Middle,Jimmy Eat World,67.0,Dance around a bit,3741.0
+199,Stitches,Shawn Mendes,23.0,Dance like nobody's watching,1587.0
