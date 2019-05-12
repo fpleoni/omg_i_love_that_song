@@ -108,4 +108,17 @@ We tried a total of eight models and a dummy classifier as a baseline, for each 
 ![](../master/images/Summary.png) 
 
 
+
+Even though from the F1 Micro Average Scores it looks like the best models were KNN and Random Forest, both of these were overfit, which is why we chose XGBoost as our best model. 
+
+
+
+
+## Next Steps
+
+  1. Try boosting algorithms: AdaBoost and Gradient Boosting
+  
+  2. Ensemble the three best models
+  
+  3. Build a recommendation system
   
