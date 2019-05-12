@@ -65,6 +65,8 @@ The dataset used in this project was build through web scraping and Spotify's AP
   
 After binning the danceability variable into categories, we plotted the distribution of observations between the three classes to check for class imbalance before moving forward. We also used boxplots to detect outliers and anomalies in our feature columns.
 
+### Categories
+
 ![](../master/images/Categories.jpeg) 
 
 
@@ -72,10 +74,8 @@ After binning the danceability variable into categories, we plotted the distribu
 
 Even though the three classes were not perfectly balanced, the difference didn't make it necessary to solve the class imbalance problem through upsampling or downsampling, so once the few outliers we found were removed, we proceeded to a pairplot and correlation matrix in order to study the relationships between the different variables, and check the data for multicollinearity.
 
-![](../master/images/pairplot.png)
 
-
-
+### Correlation Matrix
 
 ![](../master/images/correlations.png)
 
@@ -92,6 +92,7 @@ Stacked Plot: Danceability vs. Key                          |  Stacked Plot: Dan
 
 To finish our EDA, we created a SQLite3 database that we could query to find interesting patterns and relationships within the data.
 
+
 Most popular songs                                          |  Songs most used in playlists
 :----------------------------------------------------------:|:------------------------------------------------------------:
 ![](../master/images/Popularity_of_Songs.jpeg)              |  ![](../master/images/playlist_songs.png)
@@ -105,12 +106,26 @@ Our goal within modeling was not to minimize Type 1 or Type 2 errors, even thoug
 
 We tried a total of eight models and a dummy classifier as a baseline, for each of them our strategy was to use Grid Search in order to find the best hyperparameters, the ones that minimized the bias-variance trade off. The hyperparameters for which we were tuning our models were chosen because of their potential to prevent overfitting and account for small class imbalances.
 
+### Summary
+
 ![](../master/images/Summary.png) 
+
 
 
 
 Even though from the F1 Micro Average Scores it looks like the best models were KNN and Random Forest, both of these were overfit, which is why we chose XGBoost as our best model. 
 
+
+
+### Confusion Matrix
+
+![](../master/images/confusion_matrix_xgboost.png)
+
+
+
+Classification Report                                       |  Feature Importance
+:----------------------------------------------------------:|:------------------------------------------------------------:
+![](../master/images/classification_report.png)            |  ![](../master/images/xgboost_feature_importance.png)
 
 
 
